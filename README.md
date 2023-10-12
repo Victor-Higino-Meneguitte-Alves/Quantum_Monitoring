@@ -10,15 +10,20 @@ Recentemente, técnicas de monitoramento de estruturas têm se concentrado princ
 
 Link do video: https://youtu.be/Kb7bozgZwVk
 
-![Estrutura e cenários de dano](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/6d321f1c-c5a4-4e22-92ae-a1340d7ebea2)
+![image](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/3d40dc77-b984-478b-a474-338ecee0af36)
 
-![Treinamento](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/f940e02e-8408-4eac-98fa-841ece3f195b)
+![image](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/798cf03b-fb23-4ead-84cd-30dc8d3a302d)
 
-![Boxplot](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/8d307333-3efc-4598-a1ab-14de69330d6e)
+![image](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/d0a2511c-0c9a-4f5e-88da-340792928d6f)
 
-![resultados0](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/d4a10cb1-76cd-4a25-8ea1-fd0f52be9e24)
+![image](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/b8d91da6-6c70-4e5d-aede-16ed79404379)
 
-![resultados2](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/cd6b4528-3bc5-4919-af01-0c8059aa06cf)
+![image](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/6f56b2f6-ef53-459a-b027-3c9cf942e5d8)
 
-![resultados](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/09962949-e34c-4b9a-b803-def2c85fbf5e)
+![image](https://github.com/Victor-Higino-Meneguitte-Alves/SEMIC2023_QuantumML/assets/147100243/c7ef9514-7da6-4578-85a5-24a631bbfcec)
+
+
+
+
+
 
